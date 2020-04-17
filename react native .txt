@@ -1,0 +1,13 @@
+ter instalado o node phyton2 jdk8:
+	npm install python2
+	choco install -y nodejs-lts yarn python2 jdk8
+instalar globalmente
+	npm install -g react-native-cli
+teste com este comando:
+	react-native -h
+criar um projeto:
+	react-native init "nome do projeto"
+rodar:
+	react-native run-android
+link: 
+https://react-native.rocketseat.dev/android/windows

@@ -6,6 +6,8 @@ criar o projeto
 	expo init "nome do projeto"
 		blank
 		 de um nome para a aplicação
+exemplo: expo init facebook-clone --template blank --name FacebookClone
+
 rodar:
 	npm start
 		depois clicar em a
